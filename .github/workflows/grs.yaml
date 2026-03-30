@@ -1,5 +1,4 @@
-name: Update GitHub README Stats
-# (https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions)
+name: Update README cards
 
 on:
   schedule:
@@ -16,9 +15,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
           path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
