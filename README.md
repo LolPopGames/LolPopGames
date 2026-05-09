@@ -2,7 +2,7 @@
 
 [![Codewars rank](https://www.codewars.com/users/LolPopGames/badges/large)](https://www.codewars.com/users/LolPopGames)
 
-[![Stackoverflow stats](https://stackexchange.com/users/flair/35754190.png)](https://ru.stackoverflow.com/users/625052)
+[![Stackoverflow stats](https://ru.stackoverflow.com/users/flair/625052.png?theme=dark)](https://ru.stackoverflow.com/users/625052)
 
 [![GitHub Stats](./profile/stats.svg)](https://github.com/LolPopGames)
 [![GitHub Top Languages](./profile/top-langs.svg)](https://github.com/LolPopGames)
